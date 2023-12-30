@@ -1,0 +1,67 @@
+#contact{
+    color: white;
+    text-align: center;
+    margin-top: 12rem;
+    margin-bottom: 12rem;
+}
+
+.project{
+    font-weight: 100;
+    margin-bottom: 25px;
+}
+
+.buttons{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+.details{
+    margin: 28rem;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+.skype{
+    color: white;
+    margin: 20px;
+    width: 220px;
+    border: white solid 1px;
+    font-weight: 400;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    background-color: black;
+    cursor: pointer;
+    transition: 300ms;
+}
+
+.contact-button{
+    color: black;
+    margin: 20px;
+    width: 220px;
+    border: black solid 1px;
+    font-weight: 400;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    padding-top: 0.8rem;
+    padding-bottom: 0.8rem;
+    background-color: white;
+    cursor: pointer;
+    transition: 300ms;
+}
+
+.skype:hover{
+    color: black;
+    background-color: aliceblue;
+    border:royalblue solid 1px;
+    font-weight: 300;
+}
+
+.contact-button:hover{
+    color: white;
+    background-color: black;
+    border:royalblue solid 1px;
+    font-weight: 300;   
+}
