@@ -1,0 +1,30 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin:auto;
+  color: #fff;
+  margin-bottom: 20rem;
+  margin-top: 8rem ;
+}
+
+.posters {
+  display: flex;
+  flex-direction: column;
+  margin: 22px;
+  width: 200px;
+  max-height: 20px;
+  margin-right: 10px;
+  transition: 100ms;
+}
+
+.poster-image{
+    cursor: pointer;
+}
+
+.tag {
+  display: flex;
+  text-align: center;
+  font-size: 13px;
+  margin: 12px;
+}
