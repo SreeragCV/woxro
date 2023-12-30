@@ -1,0 +1,45 @@
+.middle-content{
+    margin-top: 28rem;
+}
+
+.contribution{
+    color: white;
+    text-align: center;
+    margin: 22rem;
+    margin-bottom: 0;
+}
+
+.main-heading{
+    margin-bottom: 1px;
+    font-weight: 100;
+    font-size: 28px;
+}
+
+.chart{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    color: #fff;
+    margin-bottom: 20rem;
+    margin-top: 4rem ;
+}
+
+.chart-content{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    width: 200px;
+    margin-right: 10px;
+    transition: 100ms;
+}
+
+.chart-content h1{
+    font-weight: 100;
+    font-size: 48px;
+}
+
+.c-description{
+    font-size: 14px;
+    margin: 20px;
+    margin-top: 6px;
+}
